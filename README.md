@@ -1,7 +1,7 @@
 # Code Refactor Starter Code
 <h1>challenge1 Semantics and Accessiblility assignment</h1>
 
-# This project we were required to change codes in an already working web page to follow HTML semantics and w3c web accessiblity rules
+# On this project we were required to change codes in an already working web page to follow HTML semantics and w3c web accessiblity rules
 # four major principles for an accessible website are:
 <ul>
 <li> It has to be perceivable</li>
